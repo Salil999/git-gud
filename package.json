@@ -1,6 +1,6 @@
 {
   "name": "git-gud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "git gud scrub",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,13 @@
     "git",
     "gud"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salil999/git-gud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Salil999/git-gud/issues"
+  },
   "author": "Shashank Saxena <ssaxen4@illinois.edu> (http://shashanksaxena.me/)",
   "license": "ISC"
 }
